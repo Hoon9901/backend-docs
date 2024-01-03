@@ -12,7 +12,9 @@
 - [설계](#설계)
 - [테스트](#테스트)
 - [알고리즘](#알고리즘)
+- [부트캠프 및 동아리](#부트캠프-및-동아리)
 - [기타](#기타)
+- [기여해주신 분들](#-기여해주신-분들)
 
 ## 블로그
 - 테크 크런치 : https://techcrunch.com/ (외국)
@@ -27,7 +29,7 @@
 
 [백엔드 개발자들이 알아야할 동시성 1 — Concurrency와 Parallelism](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-1-concurrency%EC%99%80-parallelism-88c51aa2cdc5)
 
-[스프링부트 백엔드 프로그래밍 (2)](https://brunch.co.kr/@springboot/531)
+[스프링부트 백엔드 프로그래밍 (1)](https://brunch.co.kr/@springboot/530)
 
 [NGINX Unit + Spring Boot 제로 트러스트 구현](https://nginxstore.com/blog/nginx-unit/nginx-unit-spring-boot-%EC%A0%9C%EB%A1%9C-%ED%8A%B8%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84/)
 
@@ -38,8 +40,6 @@
 [JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/) - 마켓컬리
 
 [검색 시스템 톺아보기 - 1. 검색어 자동완성과 오타 교정 기능](https://blog.lbox.kr/search-engine-1)
-
-[CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) - 화해
 
 [반복되는 크롤링 작업을 Spring Batch로 해결해보자](https://disquiet.io/@misisjm/makerlog/%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%9E%91%EC%97%85%EC%9D%84-spring-batch%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%B4%EB%B3%B4%EC%9E%90)
 
@@ -77,6 +77,8 @@
 
 [ELK 셋팅부터 알람까지](https://techblog.woowahan.com/2659/) - 배민
 
+[CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) - 화해
+
 ## 설계
 
 [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀)](https://techblog.woowahan.com/8357/) - 배민
@@ -112,6 +114,10 @@
 
 [코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/tony9402/baekjoon)
 
+## 부트캠프 및 동아리
+
+[SW 부트캠프 및 개발 동아리 정보](https://www.notion.so/puleugo/SW-1e70e54ab7a44508a3d170717b6bc97f?pvs=4)
+
 ## 기타
 [토스에서의 시간을 돌아보며](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
 
@@ -127,7 +133,18 @@
 
 [UUID 짧게 만들기](https://www.cochori.com/uuid-%EC%A7%A7%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
+
 ## 🌟 기여해주신 분들
 
 [![기여자](https://contrib.rocks/image?repo=Hoon9901/backend-docs)](https://github.com/Hoon9901/backend-docs/graphs/contributors)
+
+
+
+
+
+
+
+
+
+
 
