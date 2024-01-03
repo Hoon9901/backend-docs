@@ -125,7 +125,7 @@
 
 [UUID 짧게 만들기](https://www.cochori.com/uuid-%EC%A7%A7%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
-
+[SW 부트캠프 및 개발 동아리 정보](https://www.notion.so/puleugo/SW-1e70e54ab7a44508a3d170717b6bc97f?pvs=4)
 
 
 
