@@ -2,6 +2,8 @@
 
 나만 볼 순 없는 맛도리 백엔드 관련 자료를 모아봤습니다.
 
+공유하고 싶은 맛있는 자료가 있다면 [PR](https://github.com/Hoon9901/backend-docs/pulls)을 날려주세요!
+
 ## 목차
 - [블로그](#블로그)
 - [백엔드](#백엔드)
@@ -25,7 +27,7 @@
 
 [백엔드 개발자들이 알아야할 동시성 1 — Concurrency와 Parallelism](https://choi-geonu.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%B4-%EC%95%8C%EC%95%84%EC%95%BC%ED%95%A0-%EB%8F%99%EC%8B%9C%EC%84%B1-1-concurrency%EC%99%80-parallelism-88c51aa2cdc5)
 
-[# 스프링부트 백엔드 프로그래밍 (2)](https://brunch.co.kr/@springboot/531)
+[스프링부트 백엔드 프로그래밍 (2)](https://brunch.co.kr/@springboot/531)
 
 [NGINX Unit + Spring Boot 제로 트러스트 구현](https://nginxstore.com/blog/nginx-unit/nginx-unit-spring-boot-%EC%A0%9C%EB%A1%9C-%ED%8A%B8%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84/)
 
@@ -125,19 +127,7 @@
 
 [UUID 짧게 만들기](https://www.cochori.com/uuid-%EC%A7%A7%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 
+## 🌟 기여해주신 분들
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![기여자](https://contrib.rocks/image?repo=Hoon9901/backend-docs)](https://github.com/Hoon9901/backend-docs/graphs/contributors)
 
