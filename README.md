@@ -29,19 +29,19 @@
 
 [NGINX Unit + Spring Boot 제로 트러스트 구현](https://nginxstore.com/blog/nginx-unit/nginx-unit-spring-boot-%EC%A0%9C%EB%A1%9C-%ED%8A%B8%EB%9F%AC%EC%8A%A4%ED%8A%B8-%EA%B5%AC%ED%98%84/)
 
-[동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759) 네이버
+[동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](https://d2.naver.com/helloworld/5626759) - 네이버
 
 [초보 Spring(Java) 개발자를 위한 완전 기초 지식(이론편)](https://yozm.wishket.com/magazine/detail/1979/)
 
-[JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/) 마켓컬리
+[JPA 덕분에 DB에서 삽질한 이야기](http://thefarmersfront.github.io/blog/jpa-uuid-sapjil/) - 마켓컬리
 
 [검색 시스템 톺아보기 - 1. 검색어 자동완성과 오타 교정 기능](https://blog.lbox.kr/search-engine-1)
 
-[CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) 화해
+[CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) - 화해
 
 [반복되는 크롤링 작업을 Spring Batch로 해결해보자](https://disquiet.io/@misisjm/makerlog/%EB%B0%98%EB%B3%B5%EB%90%98%EB%8A%94-%ED%81%AC%EB%A1%A4%EB%A7%81-%EC%9E%91%EC%97%85%EC%9D%84-spring-batch%EB%A1%9C-%ED%95%B4%EA%B2%B0%ED%95%B4%EB%B3%B4%EC%9E%90)
 
-[Spring Data Elasticsearch 설정 및 검색 기능 구현](https://tecoble.techcourse.co.kr/post/2021-10-19-elasticsearch/)
+[Spring Data Elasticsearch 설정 및 검색 기능 구현](https://tecoble.techcourse.co.kr/post/2021-10-19-elasticsearch/) - 우테코
 
 [레디스 플레이그라운드](https://github.com/RedisPlayGround)
 
@@ -50,7 +50,7 @@
 
 [동시성, 병렬, 비동기, 논블럭킹과 컨셉들](https://black7375.tistory.com/90)
 
-[우아한형제들에서 Amazon Aurora 데이터베이스를 모니터링 하는 방법](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/)배민, AWS
+[우아한형제들에서 Amazon Aurora 데이터베이스를 모니터링 하는 방법](https://aws.amazon.com/ko/blogs/tech/how-to-monitor-rds-in-woowabrothers/) - AWS
 
 [MySQL의 Transaction Isolation Level (Lock에 관하여)](http://labs.brandi.co.kr//2019/06/19/hansj.html)
 
@@ -61,11 +61,11 @@
 
 [Prometheus 를 이용한 모니터링 — Part 1](https://medium.com/@tkdgy0801/prometheus-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-part-1-69de3e87d427)
 
-[Ubuntu 20.04 서버에 K3s 클러스터 구성하기(https://cigiko.cafe24.com/author/cigiko/)
+[Ubuntu 20.04 서버에 K3s 클러스터 구성하기](https://cigiko.cafe24.com/author/cigiko/)
 
 [‘다중 클러스터 쿠버네티스’의 과제 해결하려면... 고려해야 할 4가지](https://www.ciokorea.com/news/219639)
 
-[Keycloak를 이용한 SSO 구축(web + wifi + ssh)](https://tech.socarcorp.kr/security/2019/07/31/keycloak-sso.html)
+[Keycloak를 이용한 SSO 구축(web + wifi + ssh)](https://tech.socarcorp.kr/security/2019/07/31/keycloak-sso.html) - 쏘카
 
 [이재홍의 언제나 최신 Kubernetes](https://pyrasis.com/jHLsAlwaysUpToDateKubernetes)
 
@@ -73,23 +73,23 @@
 
 [스토리지 기초 지식 9편: 오브젝트 스토리지란](https://tech.gluesys.com/blog/2021/04/20/storage_9_intro.html)
 
-[ELK 셋팅부터 알람까지](https://techblog.woowahan.com/2659/)배민
+[ELK 셋팅부터 알람까지](https://techblog.woowahan.com/2659/) - 배민
 
 ## 설계
 
-[우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀)](https://techblog.woowahan.com/8357/)
+[우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀)](https://techblog.woowahan.com/8357/) - 배민
 
-[회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/)
+[회원시스템 이벤트기반 아키텍처 구축하기](https://techblog.woowahan.com/7835/) - 배민
 
 [더 나은 쿠폰 서비스에 대한 아이디어 기록](https://johngrib.github.io/wiki/article/coupon-service-and-code-data/)
 
-[이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/2021/09/14/msa/)
+[이모티콘 서비스는 왜 MSA를 선택했나?](https://tech.kakao.com/2021/09/14/msa/) - 카카오
 
 [소프트웨어 설계 20년 해보고 깨달은 '좋은 설계'의 조건](https://yozm.wishket.com/magazine/detail/1884/)
 
 [설계란 무엇인가?](https://www.popit.kr/%EC%84%A4%EA%B3%84%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
 
-[라이브 채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109)카카오
+[라이브 채팅 플랫폼 구현기 1탄 : 개발 언어 및 기반기술 조사](https://kakaoentertainment-tech.tistory.com/109) - 카카오엔터
 
 [인스타그램 알고리즘의 거의 모든 것](https://brunch.co.kr/@mobiinside/1413)
 
@@ -102,7 +102,7 @@
 
 [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/)
 
-[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/)- 카카오페이
+[실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/) - 카카오페이
 
 ## 알고리즘
 
@@ -124,8 +124,6 @@
 [주니어 개발자가 면접을 앞두고 준비한 것들](https://yozm.wishket.com/magazine/detail/2058/)
 
 [UUID 짧게 만들기](https://www.cochori.com/uuid-%EC%A7%A7%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
-
-
 
 
 
