@@ -21,7 +21,7 @@
 - 쿠팡 엔지니어링 : https://medium.com/coupang-engineering/kr/home (국내)
 - 라인 엔지니어링 : https://engineering.linecorp.com/ko/blog (국내)
 - LY (라인,야후) Corp 테크 블로그 : https://techblog.lycorp.co.jp/ko (외국)
-- 넷플릭스 테크 블로그 : https://netflixtechblog.com/?gi=9d2561a71ca3 (외국)
+- 넷플릭스 테크 블로그 : https://netflixtechblog.com/ (외국)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
