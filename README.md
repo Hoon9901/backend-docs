@@ -16,11 +16,12 @@
 - [기타](#기타)
 - [기여해주신 분들](#-기여해주신-분들)
 
-## 블로그
+## 기술 블로그
 - 테크 크런치 : https://techcrunch.com/ (외국)
 - 쿠팡 엔지니어링 : https://medium.com/coupang-engineering/kr/home (국내)
 - 라인 엔지니어링 : https://engineering.linecorp.com/ko/blog (국내)
 - LY (라인,야후) Corp 테크 블로그 : https://techblog.lycorp.co.jp/ko (외국)
+- 넷플릭스 테크 블로그 : https://netflixtechblog.com/?gi=9d2561a71ca3 (외국)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
@@ -81,6 +82,8 @@
 
 [CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) - 화해
 
+[쿠버네티스 안내서 - 설치부터 배포까지 <실습편>](https://subicura.com/k8s/)
+
 ## 설계
 
 [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀)](https://techblog.woowahan.com/8357/) - 배민
@@ -134,6 +137,8 @@
 [주니어 개발자가 면접을 앞두고 준비한 것들](https://yozm.wishket.com/magazine/detail/2058/)
 
 [UUID 짧게 만들기](https://www.cochori.com/uuid-%EC%A7%A7%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+
+[macOS 안내서 - 본격 macOS에 개발 환경 구축하기](https://subicura.com/mac/)
 
 
 ## 🌟 기여해주신 분들
