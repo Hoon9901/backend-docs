@@ -5,7 +5,7 @@
 공유하고 싶은 맛있는 자료가 있다면 [PR](https://github.com/Hoon9901/backend-docs/pulls)을 날려주세요!
 
 ## 목차
-- [블로그](#블로그)
+- [기술 블로그](#기술-블로그)
 - [백엔드](#백엔드)
 - [데이터베이스](#데이터베이스)
 - [인프라 (DevOps)](#인프라-devops)
@@ -142,16 +142,6 @@
 
 
 ## 🌟 기여해주신 분들
-
-[![기여자](https://contrib.rocks/image?repo=Hoon9901/backend-docs)](https://github.com/Hoon9901/backend-docs/graphs/contributors)
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://github.com/Hoon9901/backend-docs/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Hoon9901/backend-docs" />
+</a>
