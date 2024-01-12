@@ -22,6 +22,10 @@
 - 라인 엔지니어링 : https://engineering.linecorp.com/ko/blog (국내)
 - LY (라인,야후) Corp 테크 블로그 : https://techblog.lycorp.co.jp/ko (외국)
 - 넷플릭스 테크 블로그 : https://netflixtechblog.com/ (외국)
+- ZUM 기술 블로그 : https://zuminternet.github.io/ (국내)
+- 우아한 형제들 기술 블로그 : https://techblog.woowahan.com/ (국내)
+- 쏘카 기술 블로그 : https://tech.socarcorp.kr/ (국내)
+- 넥스트리 블로그 : https://www.nextree.io/tag/blog/ (국내)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
