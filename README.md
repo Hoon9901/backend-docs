@@ -65,6 +65,9 @@
 
 [SQL: 웹(Web)에서 SQL 테스트 사이트 / SQL 무설치 테스트](https://gogoma.tistory.com/entry/SQL-%EC%9B%B9Web%EC%97%90%EC%84%9C-SQL-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8-SQL-%EB%AC%B4%EC%84%A4%EC%B9%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%82%AC%EC%9D%B4%ED%8A%B8) 
 
+[프로젝트에서 발생한 동시성 문제와 해결 과정, 테스트 공유
+](https://www.blog.ecsimsw.com/entry/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
+
 ## 인프라 (DevOps)
 [무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)](https://hudi.blog/zero-downtime-deployment/)
 
