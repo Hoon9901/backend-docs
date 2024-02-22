@@ -26,6 +26,7 @@
 - 우아한 형제들 기술 블로그 : https://techblog.woowahan.com/ (국내)
 - 쏘카 기술 블로그 : https://tech.socarcorp.kr/ (국내)
 - 넥스트리 블로그 : https://www.nextree.io/tag/blog/ (국내)
+- 링크드인 블로그 : https://www.linkedin.com/blog/engineering (외국)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
@@ -67,6 +68,8 @@
 
 [프로젝트에서 발생한 동시성 문제와 해결 과정, 테스트 공유
 ](https://www.blog.ecsimsw.com/entry/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
+
+[Redis Pub/Sub을 활용한 쿠폰 발급 비동기 처리](https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/)
 
 ## 인프라 (DevOps)
 [무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)](https://hudi.blog/zero-downtime-deployment/)
