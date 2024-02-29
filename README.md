@@ -27,6 +27,7 @@
 - 쏘카 기술 블로그 : https://tech.socarcorp.kr/ (국내)
 - 넥스트리 블로그 : https://www.nextree.io/tag/blog/ (국내)
 - 링크드인 블로그 : https://www.linkedin.com/blog/engineering (외국)
+- 지마켓 기술 블로그 : https://dev.gmarket.com/ (국내)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
