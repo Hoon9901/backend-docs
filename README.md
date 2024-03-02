@@ -28,6 +28,7 @@
 - 넥스트리 블로그 : https://www.nextree.io/tag/blog/ (국내)
 - 링크드인 블로그 : https://www.linkedin.com/blog/engineering (외국)
 - 지마켓 기술 블로그 : https://dev.gmarket.com/ (국내)
+- 데브시스터즈 기술블로그 : https://tech.devsisters.com/ (국내)
 
 ## 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
@@ -94,6 +95,9 @@
 [CORS가 캐시를 만났을 때](https://blog.hwahae.co.kr/all/tech/10550) - 화해
 
 [쿠버네티스 안내서 - 설치부터 배포까지 <실습편>](https://subicura.com/k8s/)
+
+[세계 최초로 cert-manager 버그를 발견하고 해결하기
+](https://tech.devsisters.com/posts/finding-and-fixing-cert-manager-bug/) - 데브시스터즈
 
 ## 설계
 
