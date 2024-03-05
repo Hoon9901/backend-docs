@@ -59,6 +59,9 @@
 
 [[스프링 배치 PR 기여] FlowBuilder.next() 의 무한루프 버그 고치기](https://medium.com/opensource-contributors/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-pr-%EA%B8%B0%EC%97%AC-flowbuilder-next-%EC%9D%98-%EB%AC%B4%ED%95%9C%EB%A3%A8%ED%94%84-%EB%B2%84%EA%B7%B8-%EA%B3%A0%EC%B9%98%EA%B8%B0-3cac3237f44c)
 
+[Virtual Thread의 기본 개념 이해하기
+](https://d2.naver.com/helloworld/1203723) - Naver D2
+
 ## 데이터베이스
 [관계형 데이터베이스 실전 입문 - 03. 정규화 논리(첫 번째) - 함수 종속성](https://www.sunny-son.space/MySQL/RDBMstart03/)
 
