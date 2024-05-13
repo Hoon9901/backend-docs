@@ -4,19 +4,20 @@
 
 공유하고 싶은 맛있는 자료가 있다면 [PR](https://github.com/Hoon9901/backend-docs/pulls)을 날려주세요!
 
-## 목차
+# 목차
 - [기술 블로그](#기술-블로그)
 - [백엔드](#백엔드)
-- [데이터베이스](#데이터베이스)
-- [인프라 (DevOps)](#인프라-devops)
-- [설계](#설계)
+  - [Java](#java)
+  - [데이터베이스](#데이터베이스)
+  - [인프라 (DevOps)](#인프라-devops)
+- [소프트웨어 설계](#소프트웨어-설계)
 - [테스트](#테스트)
 - [알고리즘](#알고리즘)
 - [부트캠프 및 동아리](#부트캠프-및-동아리)
 - [기타](#기타)
 - [기여해주신 분들](#-기여해주신-분들)
 
-## 기술 블로그
+# 기술 블로그
 - 테크 크런치 : https://techcrunch.com/ (외국)
 - 쿠팡 엔지니어링 : https://medium.com/coupang-engineering/kr/home (국내)
 - 라인 엔지니어링 : https://engineering.linecorp.com/ko/blog (국내)
@@ -29,8 +30,9 @@
 - 링크드인 블로그 : https://www.linkedin.com/blog/engineering (외국)
 - 지마켓 기술 블로그 : https://dev.gmarket.com/ (국내)
 - 데브시스터즈 기술블로그 : https://tech.devsisters.com/ (국내)
+- 하이퍼커넥트 기술 블로그 : https://hyperconnect.github.io/ (국내)
 
-## 백엔드
+# 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
 
 [Spring - Flyway 적용하기](https://backtony.github.io/spring/2021-10-22-spring-db-1/)
@@ -59,8 +61,13 @@
 
 [[스프링 배치 PR 기여] FlowBuilder.next() 의 무한루프 버그 고치기](https://medium.com/opensource-contributors/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-pr-%EA%B8%B0%EC%97%AC-flowbuilder-next-%EC%9D%98-%EB%AC%B4%ED%95%9C%EB%A3%A8%ED%94%84-%EB%B2%84%EA%B7%B8-%EA%B3%A0%EC%B9%98%EA%B8%B0-3cac3237f44c)
 
+## Java
+[자바 성능 튜닝 이야기 - 1
+](https://sungjk.github.io/2019/03/28/java-performance-tuning-1.html)
+
 [Virtual Thread의 기본 개념 이해하기
 ](https://d2.naver.com/helloworld/1203723) - Naver D2
+
 
 ## 데이터베이스
 [관계형 데이터베이스 실전 입문 - 03. 정규화 논리(첫 번째) - 함수 종속성](https://www.sunny-son.space/MySQL/RDBMstart03/)
@@ -77,6 +84,8 @@
 ](https://www.blog.ecsimsw.com/entry/%EB%8F%99%EC%8B%9C%EC%84%B1-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
 
 [Redis Pub/Sub을 활용한 쿠폰 발급 비동기 처리](https://oliveyoung.tech/blog/2023-08-07/async-process-of-coupon-issuance-using-redis/)
+
+[Reids와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html) - 하이퍼커넥트
 
 ## 인프라 (DevOps)
 [무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)](https://hudi.blog/zero-downtime-deployment/)
@@ -104,7 +113,7 @@
 [세계 최초로 cert-manager 버그를 발견하고 해결하기
 ](https://tech.devsisters.com/posts/finding-and-fixing-cert-manager-bug/) - 데브시스터즈
 
-## 설계
+# 소프트웨어 설계
 
 [우당탕탕 정산어드민 시스템 파일럿 프로젝트 도전기(feat. 정산플랫폼팀)](https://techblog.woowahan.com/8357/) - 배민
 
@@ -126,24 +135,26 @@
 
 [결제 시스템 디자인](https://hides.kr/1141)
 
-## 테스트
+[DDD 도메인 주도 설계 1장](https://minkukjo.github.io/dev/2020/11/01/DDD-01/)
+
+# 테스트
 [토리맘 한글라이즈 프로젝트 - Spring Security Testing](https://godekdls.github.io/Spring%20Security/testing/) 
 
 [TDD는 Design Acitivity이다.](https://perfectacle.github.io/2022/06/06/tdd-is-design-activity/)
 
 [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/) - 카카오페이
 
-## 알고리즘
+# 알고리즘
 
 [알고리즘 - KMP 알고리즘 : 문자열 검색을 위한 알고리즘](https://chanhuiseok.github.io/posts/algo-14/)
 
 [코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/tony9402/baekjoon)
 
-## 부트캠프 및 동아리
+# 부트캠프 및 동아리
 
 [SW 부트캠프 및 개발 동아리 정보](https://www.notion.so/puleugo/SW-1e70e54ab7a44508a3d170717b6bc97f?pvs=4)
 
-## 기타
+# 기타
 [토스에서의 시간을 돌아보며](https://evan-moon.github.io/2022/05/07/toss-retrospective/)
 
 [안정적인 서비스 운영을 위한 정리](https://bscnote.tistory.com/102)
@@ -161,7 +172,7 @@
 [macOS 안내서 - 본격 macOS에 개발 환경 구축하기](https://subicura.com/mac/)
 
 
-## 🌟 기여해주신 분들
+# 🌟 기여해주신 분들
 <a href="https://github.com/Hoon9901/backend-docs/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Hoon9901/backend-docs" />
 </a>
