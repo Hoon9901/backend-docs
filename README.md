@@ -31,6 +31,7 @@
 - 지마켓 기술 블로그 : https://dev.gmarket.com/ (국내)
 - 데브시스터즈 기술블로그 : https://tech.devsisters.com/ (국내)
 - 하이퍼커넥트 기술 블로그 : https://hyperconnect.github.io/ (국내)
+- 토스 기술 블로그 : https://toss.tech/tech (국내)
 
 # 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
