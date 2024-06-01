@@ -87,6 +87,8 @@
 
 [Reids와 분산 락(1/2) - 레디스를 활용한 분산 락과 안전하고 빠른 락의 구현](https://hyperconnect.github.io/2019/11/15/redis-distributed-lock-1.html) - 하이퍼커넥트
 
+[데이터베이스 복제하기(리플리케이션) 1 - 테코와 알아보는 대규모 데이터 관리](https://tecoble.techcourse.co.kr/post/2023-11-06-zero-downtime-deployment-1/)
+
 ## 인프라 (DevOps)
 [무중단 배포 아키텍처와 배포 전략 (Rolling, Blue/Green, Canary)](https://hudi.blog/zero-downtime-deployment/)
 
