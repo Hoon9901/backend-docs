@@ -147,6 +147,7 @@
 
 [실무에서 적용하는 테스트 코드 작성 방법과 노하우 Part 1: 효율적인 Mock Test](https://tech.kakaopay.com/post/mock-test-code/) - 카카오페이
 
+[인프런에서는 수천 개의 테스트 코드를 이렇게 다루고 있어요 | 인프콘2023](https://youtu.be/SngFwF_yRuo?si=tBFErRk3pYYZgcGQ) - 인프런
 # 알고리즘
 
 [알고리즘 - KMP 알고리즘 : 문자열 검색을 위한 알고리즘](https://chanhuiseok.github.io/posts/algo-14/)
