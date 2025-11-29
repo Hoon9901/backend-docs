@@ -11,6 +11,7 @@
   - [데이터베이스](#데이터베이스)
   - [인프라 (DevOps)](#인프라-devops)
 - [소프트웨어 설계](#소프트웨어-설계)
+- [프로덕트](#프로덕트)
 - [테스트](#테스트)
 - [알고리즘](#알고리즘)
 - [부트캠프 및 동아리](#부트캠프-및-동아리)
@@ -32,6 +33,7 @@
 - 데브시스터즈 기술블로그 : https://tech.devsisters.com/ (국내)
 - 하이퍼커넥트 기술 블로그 : https://hyperconnect.github.io/ (국내)
 - 토스 기술 블로그 : https://toss.tech/tech (국내)
+- 당근 기술 블로그 : https://about.daangn.com/blog/category/tech/#_filter (국내)
 
 # 백엔드
 [JPA Repository 규칙](https://incheol-jung.gitbook.io/docs/q-and-a/spring/jpa-repository)
@@ -139,6 +141,9 @@
 [결제 시스템 디자인](https://hides.kr/1141)
 
 [DDD 도메인 주도 설계 1장](https://minkukjo.github.io/dev/2020/11/01/DDD-01/)
+
+# 프로덕트
+[프로덕트에 진심인 엔지니어는 어떻게 일할까? ①](https://about.daangn.com/blog/archive/%EB%8B%B9%EA%B7%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A9%EC%A0%81%EC%A1%B0%EC%A7%81-%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4/) - 당근
 
 # 테스트
 [토리맘 한글라이즈 프로젝트 - Spring Security Testing](https://godekdls.github.io/Spring%20Security/testing/) 
